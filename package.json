@@ -1,0 +1,26 @@
+{
+  "name": "jest-course",
+  "version": "1.0.0",
+  "description": "Jest course",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hijuliancode/jest.git"
+  },
+  "keywords": [
+    "jest",
+    "testing"
+  ],
+  "author": "HiJulianCode",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hijuliancode/jest/issues"
+  },
+  "homepage": "https://github.com/hijuliancode/jest#readme",
+  "devDependencies": {
+    "jest": "^26.1.0"
+  }
+}
